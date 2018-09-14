@@ -1,4 +1,5 @@
 {
+  "flashsale": {
   "request_id": "q3eecl3g71k5bzac7dc1",
   "code": 200,
   "error_message": "",
@@ -177,4 +178,5 @@
       ]
     }
   }
+}
 }
