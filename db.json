@@ -1,182 +1,182 @@
 {
   "flashsale": {
-  "request_id": "q3eecl3g71k5bzac7dc1",
-  "code": 200,
-  "error_message": "",
-  "data": {
-    "server_time": "2018-09-20 09:10:00",
-    "title": "Super September 99%",
-    "description": "",
-    "groups": {
-      "active": [
-        {
-          "label": "09:00-10:00",
-          "items": [
-            {
-              "product_id": 4267416,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+    "request_id": "q3eecl3g71k5bzac7dc1",
+    "code": 200,
+    "error_message": "",
+    "data": {
+      "server_time": "2018-09-20 09:10:00",
+      "title": "Super September 99%",
+      "description": "",
+      "groups": {
+        "active": [
+          {
+            "label": "09:00-10:00",
+            "items": [
+              {
+                "product_id": 4267416,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
               },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            },
-            {
-              "product_id": 0,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+              {
+                "product_id": 0,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
-              },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "label": "10:00-11:00",
-          "items": [
-            {
-              "product_id": 0,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "10:00-11:00",
+            "items": [
+              {
+                "product_id": 0,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
               },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            },
-            {
-              "product_id": 0,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+              {
+                "product_id": 0,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
-              },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "expired": [
-        {
-          "label": "08:00-09:00",
-          "items": [
-            {
-              "product_id": 4267416,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "expired": [
+          {
+            "label": "08:00-09:00",
+            "items": [
+              {
+                "product_id": 4267416,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
-              },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "label": "07:00-08:00",
-          "items": [
-            {
-              "product_id": 4267416,
-              "product_title": "Syaqinah Sepatu Sneaker  Wanita 361 - Putih",
-              "pricing": {
-                "original": {
-                  "base_price": 435000,
-                  "effective_price": 249300,
-                  "app_effective_price": 249300
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "07:00-08:00",
+            "items": [
+              {
+                "product_id": 4267416,
+                "product_title": "Syaqinah Sepatu Sneaker Wanita 361 - Putih",
+                "pricing": {
+                  "original": {
+                    "base_price": 435000,
+                    "effective_price": 249300,
+                    "app_effective_price": 249300
+                  },
+                  "formatted": {
+                    "base_price": "Rp 435.000",
+                    "effective_price": "Rp 249.300",
+                    "app_effective_price": "Rp 249.300"
+                  }
                 },
-                "formatted": {
-                  "base_price": "Rp 435.000",
-                  "effective_price": "Rp 249.300",
-                  "app_effective_price": "Rp 249.300"
-                }
-              },
-              "images": [
-                {
-                  "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
-                  "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+                "images": [
+                  {
+                    "original": "https://mm-imgs.mataharimall.co/p/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail200": "https://mm-imgs.mataharimall.co/tx200/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg",
+                    "thumbnail400": "https://mm-imgs.mataharimall.co/tx400/2017/11/05/21/syaqinah-sepatu-sneaker-wanita-361-putih_4267416_1_91787.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   }
-}
 }
